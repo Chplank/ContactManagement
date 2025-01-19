@@ -1,0 +1,11 @@
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\bin\Debug\net8.0\ContactManagement.Core.deps.json
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\bin\Debug\net8.0\ContactManagement.Core.dll
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\bin\Debug\net8.0\ContactManagement.Core.pdb
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ContactManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ContactManagement.Core.AssemblyInfoInputs.cache
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ContactManagement.Core.AssemblyInfo.cs
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ContactManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ContactManagement.Core.dll
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\refint\ContactManagement.Core.dll
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ContactManagement.Core.pdb
+C:\Users\cplank\source\repos\Hausübung160125\ContactManagement.Core\obj\Debug\net8.0\ref\ContactManagement.Core.dll
